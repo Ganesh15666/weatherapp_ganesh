@@ -1,0 +1,22 @@
+*{
+	pad: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+
+.container{
+	height: 350px;
+	width: 250px;
+	box-shadow: 0px 0px 20px gray;
+	border-radius: 30px;
+	padding: 20px;
+}
